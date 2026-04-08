@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>usability | Ken Horovatin</title><link>https://ken.horovatin.net/tags/usability/</link><atom:link href="https://ken.horovatin.net/tags/usability/index.xml" rel="self" type="application/rss+xml"/><description>usability</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Ken Horovatin</copyright><lastBuildDate>Wed, 08 Apr 2026 16:54:00 -0600</lastBuildDate><image><url>img/map[gravatar:%!s(bool=false) shape:circle]</url><title>usability</title><link>https://ken.horovatin.net/tags/usability/</link></image><item><title>Home Automation as a Practical Retirement-Era Hobby</title><link>https://ken.horovatin.net/post/home-automation-practical-retirement-hobby/</link><pubDate>Wed, 08 Apr 2026 16:54:00 -0600</pubDate><guid>https://ken.horovatin.net/post/home-automation-practical-retirement-hobby/</guid><description>&lt;p>One of the technical areas I have been enjoying most in retirement is home
+automation.&lt;/p>
+&lt;p>It combines several things I have always liked: problem solving, software
+configuration, hardware experimentation, and building systems that are genuinely
+useful.&lt;/p>
+&lt;p>What interests me most is not novelty for its own sake. The best automations are
+practical, dependable, and easy to live with. A good automation should quietly
+do its job, reduce friction, and avoid making ordinary tasks more complicated.&lt;/p>
+&lt;p>An important part of that is usability for everyone in the household. I am not
+interested in building systems that require special knowledge or constant
+attention from other people. The goal is technology that helps in the background
+and remains easy to understand when it matters.&lt;/p>
+&lt;p>My background in software quality and test automation has probably shaped how I
+think about these projects. I naturally care about reliability, maintainability,
+observability, and reducing the chance that a helpful system turns into a
+frustrating one.&lt;/p>
+&lt;p>I am also increasingly drawn to simple solutions over clever ones. In home
+automation, the most impressive design is often the one that becomes almost
+invisible in daily life.&lt;/p>
+&lt;p>Over time, I expect to write about some of the ideas behind these projects: how
+to think about trustworthy automation, how to keep systems understandable, and
+how to design with the people in the household in mind.&lt;/p>
+&lt;p>I may also share selected lessons learned from working with sensors, automation
+platforms, and connected devices, while keeping the focus on general principles
+rather than detailed implementation.&lt;/p></description></item></channel></rss>
